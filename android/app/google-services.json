@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "917975662103",
+    "project_id": "khair-zaman",
+    "storage_bucket": "khair-zaman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917975662103:android:fd61bcb93461cddfb72652",
+        "android_client_info": {
+          "package_name": "com.example.khair_zaman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917975662103-ahcvukki3anv0mikshivnoemnaf7ss8k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.khair_zaman",
+            "certificate_hash": "57ee8a419202ce8518c26c35505cab1290f4834f"
+          }
+        },
+        {
+          "client_id": "917975662103-p1ori08ues2flqnbq79mucqpm966e2ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcXO-QrYd1iivKJeXD_-qaVWL1gLmm6RE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917975662103-p1ori08ues2flqnbq79mucqpm966e2ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
